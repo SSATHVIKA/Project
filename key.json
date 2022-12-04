@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fashionworld-dcbae",
+  "private_key_id": "e6f3d22c608506f63c8f05e2fd3036677b6c01a7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCTEl9c2jyp6E8z\nT5EZ4bNWxB3dGA1pNf5rIj+5bFlo1NyNZIIHSi3vsImHXCmFZxq/Ggs0O/rxBuRr\nwm2vOED4axYL+8QkNO1jnhi+RBiiadicKOj9hQmCQ629AKVL9YiY2LNje0iBR0xR\nFzauZPYQt1G8TqbK9mZHWzKqIZ0zAfvl0zrScdvYdAb/SB0NKUFr8nADtJDLzNib\naI8U9yDgZad1nbD+Mh3PpRr1aZvM78lpB9dRIFJV39LdFQfszyg95+0hPu7IJYge\nBGSdkMgiaP95T2On3MmP17EY1Ox7zcioGgzxFxKBPHGs0yZsHjfTLbitMNnf1Kja\nSkuBhp9NAgMBAAECggEAAcwNRkEuBJV5TxMynrJXUqdK0uzJHSpmIkD+eyS+/Im9\nUcaTBpIteLeB6eZPMflOJlxwtQHjaxaLRZXQNhfl4CM1PcHYMukPc+wp0tYm+ht4\n/hxLdiDHoPcN8Th7MvzPeOHZyOY0vv+nOxM7I9GWZokW6P1WpGkMwhdAyaHN6rwF\n7c0MMrShzay/5FWq44NF7lQWiCgTPZatBCLOXLjm8tCNVPbVYvf9Ab5GZTqPuJRa\nhI+G1UJt2Rbm4ZgfvuWX/im2sr9sVQkk5YvTF8d7iYpTCtsi9BGQQ0npZgCWM0Wm\ncV5YKLEGBJb3FPNE/iJIyCcIv9EhfpXkcr2+cjNNsQKBgQDFlc3nvy1egLmT9EmY\nE/AaikU6scqbfePIvItrC9ZwqmKkEXB7AJPSpj/FhHqwPn6o5hpSuW870ZLKYt7w\nwD0WR9f/2alP1apOOzEnlabHwNRfkPfUhqLidn3W+PsBBerM3iT/IYRl0joY54at\nOc9MeJ5qNsS8eycSa2LMdCN+5wKBgQC+jXiJoK86XhKxGRK3O8r53rq+Uhp8kpq9\nIi5voYfbxy2s+f1nB2iYWrpzxxGnSqVU5wmWf8KCFVLssssETmmBiyCH235i9NKV\nmvx29K1aVPcn14iYVb6HLaB5OY7sBGJOtT78unrKmfrHiPVpJcCPh6EtElY2jADB\n9oPjUmPtqwKBgA4/jUem+6iS8879kMkMtwXS7scaxxeLbn+tSQiBJAef4dkfANN9\n6SsJnhOqSAapmwym+0L36FOR+1no41bNJhqTN7pVgeYl7FAT6KmIGyzQdQAnPhfv\nVZOrI8v6zG74dEQtyNE1I40MKfBd0dJwFsjW8eWK6YkGAH1NjSRdQ6oFAoGAdvW2\n9KS+AEBOhwVSK9ZGR2wHRV3Yb0DPHZhDSSmcuVZFa6G90x5K7CJoGHOEz93IDZMW\n5z/nXHKXjHGqUIvrThZfPrGG25xgA0n4pwLlXmmAyvzBp+iPw7B2aHfIhAvQm7aH\nFhwNIIK0jvEv1G7fIjvYIV07OV558p1FhRsgi3UCgYAmzWxmgEAai9+IaRrdJFTx\nZQmoe9c7mRbvUw7IliDqylauiFtvmvGbvG+2VNxnyJrRgpL2B+sawd7Gyx9lWuLn\n1hrJXy0AiRWhES2ZKPBeuPyP+gVsZ+LFmbDyWcCoL34/+C0BluAbkioa+GZGY3lG\n6kgpCeV+0N+/EDvRGYZyog==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-n4q0u@fashionworld-dcbae.iam.gserviceaccount.com",
+  "client_id": "106795227280148667041",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-n4q0u%40fashionworld-dcbae.iam.gserviceaccount.com"
+}
